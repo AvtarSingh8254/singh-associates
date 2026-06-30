@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://avtarsingh8254.github.io/singh-associates/sitemap.xml
